@@ -1,0 +1,19 @@
+{
+  "name": "testautomation-web",
+  "version": "1.0.0",
+  "description": "We are looking for Automation Engineers that have the mindset \"only the sky is the limit\" and \"automation doesn't stop at testing, it's just a beginning!\" ;)",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "http-server ./testautomation-web -p 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.4"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.2"
+  }
+}
