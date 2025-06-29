@@ -1,7 +1,7 @@
 
 Assignment for QA role.
 
-!!!Important!!!
+!!! Important !!!
 
 Due to lack of requirements some assumptions for open test assignment were made.
 In real work environment no assumptions should be made!!!
